@@ -21,13 +21,3 @@
 <p align="left">
   ⚙️ <strong>Tools:</strong> Java, VSCode, 
 </p>
-
-<p align="left">
-  📞 <strong>Call me:</strong> ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="brunofreitas2404@gmail.com"/></a>
-  <a href="#" title="Number">
-  <img src="55+ 11 96783-9065"/></a>
