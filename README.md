@@ -1,16 +1,33 @@
 ## Bruno
 
-<!--
-**Brudark/Brudark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  I'm Bruno and studying at Senai Anchieta Vila Mariana
+  <br>
+ 
+  <strong>Interests </strong>
+  <br>📈 Data analysis
+  <br>👨🏼‍💻 Software and application development
+  <br>🔐 Cybersecurity, computer forensics, pentest
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💻 <strong>Knowledge:</strong> Java, CSS, JavaScript, HTML,
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💼 <strong>Experience:</strong> Senai Anchieta Vila Mariana
+</p>
+
+<p align="left">
+  ⚙️ <strong>Tools:</strong> Java, VSCode, 
+</p>
+
+<p align="left">
+  📞 <strong>Call me:</strong> ⤵️
+</p>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="brunofreitas2404@gmail.com"/></a>
+  <a href="#" title="Number">
+  <img src="55+ 11 96783-9065"/></a>
